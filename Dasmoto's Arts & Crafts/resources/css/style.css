@@ -1,0 +1,52 @@
+.container {
+  height: auto;
+  width: 100%;
+}
+
+.header {
+  background-image: url("/Users/alecsole/Desktop/Projects/Dasmoto's Arts & Crafts/resources/img/pattern.jpg");
+  margin: 10px 0 100px 0;
+}
+
+.container #heading {
+  text-align: center;
+  color: #F0E597;
+  font-family: Helvetica;
+  font-weight: bold;
+  font-size: 100px;
+}
+
+.subheading {
+  height:auto;
+  width: 100%;
+  font-family: Helvetica;
+  font-weight: bold;
+  font-size: 32px;
+  color: white;
+}
+
+h3 {
+  font-weight: bold;
+  font-family: Helvetica;
+}
+
+p {
+  font-family: Helvetica;
+}
+
+.bluewords {
+  color: #0720F4;
+  font-weight: bold;
+}
+
+#brush {
+  background-color: #00FAA4;
+}
+
+#frame {
+  background-color: #F47F81;
+}
+
+#paint {
+  background-color: #82CFE8;
+}
